@@ -1,0 +1,30 @@
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csprojAssemblyReference.cache
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\koray.kavruk\source\repos\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csprojAssemblyReference.cache
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\DRAGONSHİELD\Downloads\Compressed\c#dersleri\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.AssemblyReference.cache
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
